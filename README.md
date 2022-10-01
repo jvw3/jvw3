@@ -1,4 +1,4 @@
-### Hi, 👋 I'm Jonathan!
+<h1>Hi, 👋 I'm Jonathan!</h1>
 
 - 📍 Located in Nashville, TN.
 - 🎓 Currently attending Nashville Software School
