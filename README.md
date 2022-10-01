@@ -10,7 +10,7 @@
 
 <h3>Client-Side Capstone:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/jvw3/travel-buddy-capstone)
 
 <h3>My Github stats:</h3>
 
