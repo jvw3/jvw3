@@ -1,7 +1,7 @@
 <h1>Hi, 👋🏾 I'm Jonathan!</h1>
 
 - 📍 Located in Nashville, TN.
-- 🎓 Currently attending Nashville Software School
+- 🎓 I'm currently attending Nashville Software School
 - 🔭 I’m currently working on my front end capstone of Nashville Software School, built with Javascript and React.
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: 
