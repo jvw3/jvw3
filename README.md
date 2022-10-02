@@ -1,6 +1,7 @@
 <h1>Hi, 👋🏾 I'm Jonathan!</h1>
 
 ![](https://komarev.com/ghpvc/?username=jvw3)
+[![GitHub followers](https://img.shields.io/github/followers/jvw3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jvw3?tab=followers)
 
 - 📍 Located in Nashville, TN.
 - 🎓 I'm currently attending Nashville Software School
