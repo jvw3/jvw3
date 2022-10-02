@@ -1,5 +1,7 @@
 <h1>Hi, 👋🏾 I'm Jonathan!</h1>
 
+![](https://komarev.com/ghpvc/?username=jvw3)
+
 - 📍 Located in Nashville, TN.
 - 🎓 I'm currently attending Nashville Software School
 - 🔭 I’m currently working on my front end capstone of Nashville Software School, built with Javascript and React.
@@ -13,6 +15,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/jvw3/travel-buddy-capstone)
 
 <h3>My Github stats:</h3>
+
+
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvw3&show_icons=true&theme=github_dark)[![GitHub Streak](https://streak-stats.demolab.com/?user=jvw3&theme=github-dark-blue)](https://git.io/streak-stats)
 
