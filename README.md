@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=jvw3)
 [![GitHub followers](https://img.shields.io/github/followers/jvw3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jvw3?tab=followers)
 
-- 📍 Located in Nashville, TN.
+- 📍 Located in Nashville, TN
 - 🎓 I'm currently attending Nashville Software School
 - 🔭 I’m currently working on my front end capstone of Nashville Software School, built with Javascript and React.
 - 🌱 I’m currently learning React JS
