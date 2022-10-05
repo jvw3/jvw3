@@ -6,7 +6,7 @@
 - 📍 Located in Nashville, TN
 - 🎓 I'm currently attending Nashville Software School
 - 🔭 I’m currently working on my front end capstone of Nashville Software School, built with Javascript and React.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Python and React JS 
 - 📫 How to reach me: 
   - Email: jvw.226@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jonathan-woodard/
