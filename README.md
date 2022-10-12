@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=jvw3)
 [![GitHub followers](https://img.shields.io/github/followers/jvw3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jvw3?tab=followers)
 
+I'm a software developer who has recently made the transition to tech, after playing professional football for the last seven years. I'm a self-motivated, team oriented, algorithmic thinker with a passion for learning and a strength for working in a high pressure, fast-paced, environment. I'm accustomed to comprehending a variety of new concepts in a short period of time and seeking a position to expand and leverage my strengths.
+
 - 📍 Located in Nashville, TN
 - 🎓 I'm currently attending Nashville Software School
 - 🔭 I’m currently working on my front end capstone of Nashville Software School, built with Javascript and React.
