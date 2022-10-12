@@ -7,7 +7,7 @@ I'm a software developer who has recently made the transition to tech, after pla
 
 - 📍 Located in Nashville, TN
 - 🎓 I'm currently attending Nashville Software School
-- 🔭 I’m currently working on my front end capstone of Nashville Software School, built with Javascript and React.
+- 🔭 I’m currently working on  V2 of my front end capstone, Travel Buddy.
 - 🌱 I’m currently learning Python and React JS 
 - 📫 How to reach me: 
   - Email: jvw.226@gmail.com
