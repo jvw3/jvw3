@@ -8,7 +8,7 @@ I'm a software developer who has recently made the transition to tech, after pla
 - 📍 Located in Nashville, TN
 - 🎓 I'm currently attending Nashville Software School
 - 🔭 I’m currently working on  V2 of my front end capstone, Travel Buddy.
-- 🌱 I’m currently learning Python and React JS 
+- 🌱 I’m currently learning Python, SQL, and Django 
 - 📫 How to reach me: 
   - Email: jvw.226@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jonathan-woodard/
