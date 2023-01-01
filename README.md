@@ -16,7 +16,7 @@ I'm a software developer who has recently made the transition to tech, after pla
   - Email: jvw.226@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jonathan-woodard/
 
-<h3>Client-Side Capstone:</h3>
+<h3>Client-Side Capstone Application:</h3>
 <h4> Tech Stack: Javascript, React, JSON Server, Mantine UI </h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/jvw3/travel-buddy-capstone)
