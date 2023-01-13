@@ -19,7 +19,7 @@ I'm a software developer who has recently made the transition to tech, after pla
 <h3>Client-Side Capstone Application:</h3>
 <h4> Tech Stack: Javascript, React, JSON Server, Mantine UI </h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/jvw3/travel-buddy-capstone)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/jvw3/travel-buddy-capstone)
 
 <h3>My Github stats:</h3>
 
