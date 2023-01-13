@@ -25,7 +25,7 @@ I'm a software developer who has recently made the transition to tech, after pla
 
 
 
-![Jonathan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jvw3&show_icons=true&theme=github_dark)[![GitHub Streak](https://streak-stats.demolab.com/?user=jvw3&theme=github-dark-blue)](https://git.io/streak-stats)
+![Jonathan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jvw3&show_icons=true&theme=github_dark)[![GitHub Streak](https://streak-stats.demolab.com/?user=jvw3&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 
