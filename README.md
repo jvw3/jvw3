@@ -21,6 +21,11 @@ I'm a software developer who has recently made the transition to tech, after pla
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/jvw3/travel-buddy-capstone)
 
+<h3>Full Stack Capstone Application:</h3>
+<h4> Tech Stack: Javascript, React, TailwindCSS, Python, Django </h4>
+
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/jvw3/Job-Seeker-Client)
+
 <h3>My Github stats:</h3>
 
 
