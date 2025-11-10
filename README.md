@@ -13,17 +13,9 @@ I'm a software developer who has recently made the transition to tech, after pla
 
 <h3>My Github stats:</h3>
 
-
-
-![Jonathan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jvw3&show_icons=true&theme=github_dark)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jvw3&theme=github-dark-blue)](https://git.io/streak-stats)
 
-
-
-
 <h3>Skills:</h3>
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,9 +23,5 @@ I'm a software developer who has recently made the transition to tech, after pla
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jvw3&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
