@@ -1,6 +1,3 @@
-![](https://github.com/jvw3/jvw3/blob/main/Astroid%20Game%20Gif%20(2).gif)
-
-
 <h1>Hi, 👋🏾 I'm Jonathan!</h1>
 
 ![](https://komarev.com/ghpvc/?username=jvw3)
