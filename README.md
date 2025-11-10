@@ -9,24 +9,7 @@
 I'm a software developer who has recently made the transition to tech, after playing professional football for the last seven years. I'm a self-motivated, team oriented, algorithmic thinker with a passion for learning and a strength for working in a high pressure, fast-paced, environment. I'm accustomed to comprehending a variety of new concepts in a short period of time and seeking a position to expand and leverage my strengths.
 
 - 📍 Located in Nashville, TN
-- 🎓 I'm currently attending Nashville Software School
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: 
-  - Email: jvw.226@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/jonathan-woodard/
-
-<h3>Client-Side Capstone Application:</h3>
-<h4> Tech Stack: Javascript, React, JSON Server, Mantine UI </h4>
-
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-capstone&theme=github_dark)](https://github.com/jvw3/travel-buddy-capstone)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jvw3&repo=travel-buddy-api&theme=github_dark)](https://github.com/jvw3/travel-buddy-api)
-
-<h3>Full Stack Capstone Application:</h3>
-<h4> Tech Stack: Javascript, React, TailwindCSS, Python, Django </h4>
-
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jvw3&repo=Job-Seeker-Client&theme=github_dark)](https://github.com/jvw3/Job-Seeker-Client)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jvw3&repo=Job-Seeker-Server&theme=github_dark)](https://github.com/jvw3/Job-Seeker-Server)
+- Software Engineer
 
 <h3>My Github stats:</h3>
 
